@@ -3,4 +3,5 @@ Pith document of a ghost free to play game developed in the Game Design subject 
 
 Note: The images were created by me using aseprite
 
+---------------------------------------------------------------------------------------------------------
 Language: Spanish
